@@ -85,7 +85,7 @@
  <a href="https://www.kali.org/get-kali/"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
  <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
-<div>
+<div align="center">
   <a href="https://github.com/Rodrigo-oss-prog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=compact&langs_count=7&theme=dracula"/>
