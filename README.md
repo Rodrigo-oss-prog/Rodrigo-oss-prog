@@ -57,8 +57,6 @@
   <a href="https://github.com/Rodrigo-oss-prog"><img alt="Network protocol analyzer" src="https://img.shields.io/badge/network%20protocol%20analyzer-whireshark-blue"></a>
   <a href="https://docs.microsoft.com/pt-br/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"><img alt="Microsoft Active Directory" src="https://img.shields.io/badge/Microsoft-Active%20Directory-lightblue"></a>
    <a href="https://www.virtualbox.org/"><img alt= "VirtualBox" src="https://img.shields.io/badge/VM-VirtualBox-blue"></a>
-   <a href="https://www.jetbrains.com/idea/promo/?source=google&medium=cpc&campaign=9736964299&term=intellij&gclid=CjwKCAjw9NeXBhAMEiwAbaY4ltpjsptP-Lb2YrMlKwvj_em8GKjfmoWTnIfbT4kGt5Puvotbgb4VXBoCsEoQAvD_BwE"><img alt="Intellij" src="https://img.shields.io/badge/IDE-IntelliJ-critical"></a>
-   <a href="https://code.visualstudio.com/"><img alt="Visula Studio Code" src="https://img.shields.io/badge/IDE-Visaul%20Studio%20Code-blue"></a>
    <a href="https://www.r-studio.com/pt/free-linux-recovery/"><img alt="R-Linux" src="https://img.shields.io/badge/to%20repair-R--Linux-brightgreen"></a>
    
   
