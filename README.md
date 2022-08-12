@@ -56,6 +56,7 @@
   <a href="https://github.com/Rodrigo-oss-prog"><img alt="Emulated Virtual Environment" src="https://img.shields.io/badge/Emulated-EVE--NG-darkblue"></a>
   <a href="https://github.com/Rodrigo-oss-prog"><img alt="Network protocol analyzer" src="https://img.shields.io/badge/network%20protocol%20analyzer-whireshark-blue"></a>
   <a href="https://docs.microsoft.com/pt-br/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"><img alt="Microsoft Active Directory" src="https://img.shields.io/badge/Microsoft-Active%20Directory-lightblue"></a>
+   <a href="https://www.virtualbox.org/"><img alt= "VirtualBox" src="https://img.shields.io/badge/VM-VirtualBox-blue"></a>
   
 </p>
 
@@ -89,7 +90,7 @@
   <a href="https://github.com/Rodrigo-oss-prog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=compact&langs_count=7&theme=dracula"/>
-  <a href="https://www.virtualbox.org/"><img alt= "VirtualBox" src="https://img.shields.io/badge/VM-VirtualBox-blue"></a>
+ 
 </div>
 
    
