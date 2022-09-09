@@ -22,8 +22,7 @@
 ### Programming Languages
 
 <p>
-  
-
+ 
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <img widrh ='48px' src="https://img.icons8.com/color/48/7950F2/c-programming.png"></a>
@@ -91,8 +90,8 @@
 </p>
 <div align="center">
   <a href="https://github.com/Rodrigo-oss-prog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=compact&langs_count=7&theme=dracula"/>
  
 </div>
 
