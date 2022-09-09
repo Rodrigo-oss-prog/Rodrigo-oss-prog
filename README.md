@@ -90,9 +90,15 @@
 </p>
 <div>
   <a href="https://github.com/Rodrigo-oss-prog">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=compact&langs_count=7&theme=dracula"/>
- 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  </a>
+  <a href="https://github.com/Rodrigo-oss-prog">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Rodrigo-oss-prog's github stats" height="220px" />
+  </a>
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodrigo-oss-prog.408179647)
 </div>
 
    
