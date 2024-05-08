@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no [IFSP - São Carlos / SP](https://scl.ifsp.edu.br/)
 - Participei da maratona Cisco Cibereducação completando os estudos em: **Introduction to Cybersecurity,CCNAv7 e Network Security**
-- Realizando CCNav7: Switching, Routing and Wirelees Essentials pela Cisco NetAcademy e Nicbr.
+
 - 👯 Eu procuro sempre me manter informado sobre tecnologias e segurança da informação
 - 📫 e-mail **rodrigoworkingto@gmail.com**
 - **Adoro aprender algo novo e me manter informado**
