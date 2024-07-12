@@ -101,7 +101,7 @@
 </p>
 <div>
   <a href="https://github.com/Rodrigo-oss-prog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=donut-vertical" height="250px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=donut-vertical" height="300px"/>
   </a>
   <a href="https://github.com/Rodrigo-oss-prog">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Rodrigo-oss-prog's github stats" height="220px" />
