@@ -100,6 +100,7 @@
  <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 <div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=donut-vertical)](https://github.com/Rodrigo-oss-prog/github-readme-stats)
   <a href="https://github.com/Rodrigo-oss-prog">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
