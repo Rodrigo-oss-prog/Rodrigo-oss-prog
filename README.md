@@ -100,9 +100,8 @@
  <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=donut-vertical)](https://github.com/Rodrigo-oss-prog/github-readme-stats)
   <a href="https://github.com/Rodrigo-oss-prog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=donut-vertical" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-oss-prog&layout=donut-vertical" height="250px"/>
   </a>
   <a href="https://github.com/Rodrigo-oss-prog">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-oss-prog&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Rodrigo-oss-prog's github stats" height="220px" />
